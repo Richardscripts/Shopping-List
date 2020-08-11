@@ -1,2 +1,3 @@
-# Shopping-List
-A form add, delete, check for a mock Shopping List
+# Shopping List App Challenge
+
+This repo contains starter files for the *Shopping List App* challenge.
