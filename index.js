@@ -1,8 +1,3 @@
-'use strict';
-
-//add items based on input text to container below
-//delete items from container
-//check off items from container
 
 function addItem() {
   $('#js-shopping-list-form').submit(function () {
